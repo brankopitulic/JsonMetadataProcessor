@@ -26,4 +26,15 @@ http://localhost:8080/swagger/index.html
 or
 https://localhost:8081/swagger/index.html
 
+JSON file test example
+
+{
+    "trialId": "CT-2024-001",
+    "title": "A Study on the Effects of New Medication X",
+    "startDate": "2024-01-15",
+    "endDate": "2024-04-15",
+    "participants": 150,
+    "status": "Ongoing"
+  }
+
 
